@@ -8,11 +8,13 @@ Initialize with EXPO-CLI.
 ## 🧐 Quick QnA
 
 Q: Why in the hell you keep remaking Chat App from AzCHA?
+
 A: I do not know
 
 ---
 
 Q: ???
+
 A: Yes
 
 ## 🤝 Contributing
